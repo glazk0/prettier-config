@@ -1,0 +1,21 @@
+{
+  "name": "@glazk0/prettier-config",
+  "version": "1.0.0",
+  "description": "A shared Prettier config.",
+  "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glazk0/prettier-config.git"
+  },
+  "author": "glazk0 <hi@glazk0.dev> (https://glazk0.dev)",
+  "homepage": "https://github.com/glazk0/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^2.6.2"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
